@@ -1,5 +1,5 @@
 # TF2.x XLA AMP
-Training with XLA compilation and Mixed Precision with TF2.x
+Training with XLA compilation and Mixed Precision using TF2.x
 
 #### Get 3.4+ times speed up on double the batch size with almost no change in code!
 
