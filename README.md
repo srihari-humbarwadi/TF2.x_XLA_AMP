@@ -7,7 +7,8 @@ Training with XLA compilation and Mixed Precision using TF2.x
 
 ##### PS: 
  - Maximum possible batch sizes on both FP32 and FP16 (128 and 256)
- - Results on V100 16GB
+ - 5000 images in each run
+ - GPU used:  V100 16GB
  
 #### ToDo
 - [ ] Distributed Single Worker
